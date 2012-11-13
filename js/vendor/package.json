@@ -1,0 +1,11 @@
+{
+  "volo": {
+    "dependencies": {
+      "require": "github:jrburke/requirejs/2.1.1",
+      "text": "github:requirejs/text/2.0.3",
+      "underscore": "github:documentcloud/underscore/1.4.2",
+      "mustache": "github:janl/mustache.js/0.7.0",
+      "jasmine-1.2": "https://github.com/downloads/pivotal/jasmine/jasmine-standalone-1.2.0.zip"
+    }
+  }
+}
